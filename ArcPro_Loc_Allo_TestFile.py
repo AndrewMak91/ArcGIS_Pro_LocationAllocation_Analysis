@@ -2,7 +2,7 @@
 """
 Create an Location - Allocation model for ArcPro
 Python v 3.6.6
-Current ArcPro 2.3.2 NA
+Current ArcPro 2.x NA
 Model type -- Maximize Coverage
 Candidate, Required and 1 Chosen DC Facility
 Travel Time
